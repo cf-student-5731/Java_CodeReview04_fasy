@@ -1,0 +1,16 @@
+ID       First Name      Last Name       E-Mail                      ADDRESS            ZIP        TOWN            PHONE       
+1004     Marry           Christmas       marry.christmas@mail.zz     Icy road 11        0011       North pole      +55 999 111 555
+
+
+
+DATE                  PRODID      PRODUCT                 PRICE   AMOUNT      TOTAL 
+01.08.2020, 14:09       7008      Silver Belt 2           77,90        6     467,40 
+01.08.2020, 14:09       7011      Green Jacket 2          27,90        1      27,90 
+01.08.2020, 14:09       7013      Yellow Trousers 2       17,90        1      17,90 
+01.08.2020, 14:09       7010      Green Shirt 2           14,90        1      14,90 
+01.08.2020, 14:09       7016      Yellow Belt 2           29,90        1      29,90 
+01.08.2020, 14:09       7009      Green Trousers 2        12,90        1      12,90 
+01.08.2020, 14:09       7019      Red Jacket 2            34,90        1      34,90 
+01.08.2020, 14:09       7013      Yellow Trousers 2       17,90        1      17,90 
+                                                                           ======== 
+                                                                             623,70 

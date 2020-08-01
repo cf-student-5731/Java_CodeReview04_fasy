@@ -1,0 +1,8 @@
+ID       First Name      Last Name       E-Mail                      ADDRESS            ZIP        TOWN            PHONE       
+1003     Mister          Smith           mr.smith@mail.zz            Short road 19      7854       Springfield     +55 685 45 75
+
+
+
+DATE                  PRODID      PRODUCT                 PRICE   AMOUNT      TOTAL 
+                                                                           ======== 
+                                                                               0,00 

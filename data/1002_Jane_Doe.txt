@@ -1,0 +1,16 @@
+ID       First Name      Last Name       E-Mail                      ADDRESS            ZIP        TOWN            PHONE       
+1002     Jane            Doe             jane.doe@mail.zz            Long road 15       9587       User town       +55 314 78 98
+
+
+
+DATE                  PRODID      PRODUCT                 PRICE   AMOUNT      TOTAL 
+01.08.2020, 14:09       7018      Red Shirt 2             25,90        2      51,80 
+01.08.2020, 14:09       7014      Yellow Shirt 2          24,90        1      24,90 
+01.08.2020, 14:09       7011      Green Jacket 2          27,90        1      27,90 
+01.08.2020, 14:09       7020      Red Belt 2              40,90        1      40,90 
+01.08.2020, 14:09       7016      Yellow Belt 2           29,90        1      29,90 
+01.08.2020, 14:09       7015      Yellow Jacket 2         19,90        1      19,90 
+01.08.2020, 14:09       7020      Red Belt 2              40,90        1      40,90 
+01.08.2020, 14:09       7012      Green Belt 2            24,90        1      24,90 
+                                                                           ======== 
+                                                                             261,10 
